@@ -1,6 +1,6 @@
 ## Bookmark checker ##
 ### EN ###
-This is simple script in python which takes JSON file with google chrome bookmarks and checks with bookmarks are still available on internet. As output returns bookmark directory name and links in this directory whitch are no longer available because returns 404 or 500 error.
+This is simple script in python which takes JSON file with google chrome bookmarks and checks if bookmarks are still available on internet. As output returns bookmark directory name and links in this directory whitch are no longer available because returns 404 or 500 error.
 
 ### Usage ###
 Coming soon ...
